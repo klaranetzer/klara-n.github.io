@@ -1,3 +1,7 @@
+body {
+    background-color: #B1FABD;
+}
+
 h1 {
   color: #60B3FC;
   font-size: 50px;
@@ -8,6 +12,6 @@ h3 {
   text-decoration: underline;
 }
 
-body {
-    background-color: #A8F5EC;
-}
+h2 {
+  font-size: 30px;
+  color: 
