@@ -2,8 +2,8 @@ div {
   border-radius: 5px;
 }
 
-.header {
+header {
   height: 50px;
   margin-bottom: 10px;
-  background-color: #F38630
+  background-color: #F38630;
 }
