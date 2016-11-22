@@ -2,13 +2,13 @@ div {
   border-radius: 5px;
 }
 
-header {
+#header {
   height: 100px;
   margin-bottom: 10px;
   background-color: #F38630;
 }
 
-left {
+.left {
   height: 300px;
   width: 150px;
   background-color: #9695EB;
