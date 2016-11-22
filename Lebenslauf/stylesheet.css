@@ -5,15 +5,21 @@ div {
 #header {
   height: 100px;
   margin-bottom: 10px;
-  background-color: #F38630;
+  background-color: #2E2A66;
 }
 
 .left {
   height: 300px;
   width: 150px;
   background-color: #9695EB;
+  float: left
 }
 
+.right {
+  height: 300px;
+  background-color: #A8F1ED;
+}
+  
 h1 {
   text-align: center;
 }
