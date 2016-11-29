@@ -13,14 +13,14 @@ div {
   height: 400px;
   width: 350px;
   background-color: #9695EB;
-  float: left
+  float: left;
 }
 
 .right {
   height: 150px;
   width: 250px;
   background-color: #A8F1ED;
-  float: right
+  float: right;
 }
   
 h1 {
@@ -31,6 +31,7 @@ h1 {
 
 h2 {
   font-size: 20px;
+  font-family: Times New Roman;
 }
 
 h3 {
@@ -38,10 +39,8 @@ h3 {
 }
 
 span { 
-  font-family: cursive
+  font-family: cursive;
 }
 
-* {
-  font-family: Times New Roman;
-}
+
  
