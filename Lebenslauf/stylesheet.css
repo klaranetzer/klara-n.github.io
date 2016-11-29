@@ -9,15 +9,15 @@ div {
 }
 
 .left {
-  height: 300px;
-  width: 200px;
+  height: 500px;
+  width: 400px;
   background-color: #9695EB;
   float: left
 }
 
 .right {
-  height: 300px;
-  width: 500px;
+  height: 500px;
+  width: 400px;
   background-color: #A8F1ED;
   float: right
 }
