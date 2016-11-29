@@ -1,6 +1,7 @@
 div {
   border-radius: 5px;
   margin: 20px;
+  content: 
 }
 
 #header {
@@ -10,8 +11,8 @@ div {
 }
 
 .left {
-  height: 500px;
-  width: 600px;
+  height: 250px;
+  width: 350px;
   background-color: #9695EB;
   float: left
 }
