@@ -25,15 +25,15 @@ div {
 h1 {
   text-align: center;
   color: #FFFFFF;
+  font-size: 40px;
 }
 
 h2 {
-  font-size: 16px;
-}
-
-h1 {
   font-size: 20px;
 }
+
+h3 {
+  font-size: 20
 
 h4 {
   font-size: 25px;
